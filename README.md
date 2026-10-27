@@ -33,13 +33,12 @@ Hoje, a busca por vans depende de indicações, grupos de mensagens e redes soci
 - Projetar a área do motorista para iniciar, conduzir e finalizar viagens, com sequência otimizada de paradas e registro de embarques e ausências.
 - Estabelecer requisitos de segurança e privacidade para o tratamento de dados de localização e de pagamento, em conformidade com a LGPD.
 
-## Integrantes da equipe
+## Contribuidores
 
-| Nome | Curso |
-|---|---|
-| Rian Nascimento Alves | Sistemas de Informação |
-| Gabriel Silvério da Silva | Sistemas de Informação |
-
+| Nome | GitHub |
+|------|--------|
+| Rian Nascimento Alves | [@Rianzzz](https://github.com/Rianzzz) |
+| Gabriel Silvério da Silva | [@gabrielsilverioo](https://github.com/gabrielsilverioo) |
 Orientador: Humberto Fernandes Villela — Faculdade Cotemig, Belo Horizonte.
 
 ## Tecnologias previstas
